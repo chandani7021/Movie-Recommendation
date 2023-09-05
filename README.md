@@ -37,6 +37,6 @@ To start the project
 
 Here are screenshots of working of the App
 
-![image](https://github.com/chandani7021/Movie-Recommendation-/assets/69253701/f89bef5a-24fb-4c1f-8754-d4833e04c28a)
+![Screenshot 2023-09-05 224005](https://github.com/chandani7021/Movie-Recommendation/assets/69253701/e99b238a-f780-4e4e-bf7e-27cbf10c5dfb)
 
-![image](https://github.com/chandani7021/Movie-Recommendation-/assets/69253701/8078435a-a212-469e-9abd-fad6a998a5f1)
+![Screenshot 2023-09-05 224035](https://github.com/chandani7021/Movie-Recommendation/assets/69253701/a3049f96-1a34-4209-8864-d7f0f3f927a6)
